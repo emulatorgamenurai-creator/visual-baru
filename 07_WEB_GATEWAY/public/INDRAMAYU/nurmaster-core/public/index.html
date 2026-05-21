@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nurMaster Terminal</title>
+    <style>
+        body { background: #050505; color: #00ff41; font-family: 'Courier New', monospace; display: flex; flex-direction: column; height: 100vh; margin: 0; padding: 10px; }
+        .header { border-bottom: 2px solid #00ff41; padding-bottom: 10px; text-align: center; }
+        .terminal { flex-grow: 1; border: 1px solid #222; padding: 15px; overflow-y: auto; background: rgba(0,20,0,0.2); }
+        .input-line { display: flex; margin-top: 10px; border-top: 1px solid #222; padding-top: 10px; }
+        input { background: none; border: none; color: #00ff41; flex-grow: 1; font-family: inherit; font-size: 16px; outline: none; }
+        .prefix { margin-right: 10px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        🛡️ PUSAT KOMANDO NUR MASTER<br>
+        <small>Indramayu Club Makrifat - Satu Komando</small>
+    </div>
+    <div class="terminal" id="log">
+        [SYSTEM]: Jantung Saraf Aktif di Vivo V40 Lite...<br>
+        [SYSTEM]: Menunggu Perintah Lead Architect...<br>
+    </div>
+    <div class="input-line">
+        <span class="prefix">Architect></span>
+        <input type="text" id="cmd" autofocus>
+    </div>
+
+    <script>
+        const input = document.getElementById('cmd');
+        const log = document.getElementById('log');
+
+        input.addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                const val = this.value;
+                log.innerHTML += `<div><span style="color:white">Architect:</span> ${val}</div>`;
+                // Simulasi respon nurMaster
+                setTimeout(() => {
+                    log.innerHTML += `<div><span style="color:#00ff41">nurMaster:</span> Memproses perintah ke Brankas Pusat...</div>`;
+                    log.scrollTop = log.scrollHeight;
+                }, 500);
+                this.value = '';
+            }
+        });
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,51 @@
+const { GoogleGenerativeAI } = require("@google/generativeai");
+const readline = require("readline");
+
+// Mesin membaca kecerdasan Nur Gemini dari export INDRAMAYU_ENV di .bashrc
+const apiKey = process.env.INDRAMAYU_ENV;
+
+if (!apiKey) {
+  console.error("Error: Variabel INDRAMAYU_ENV tidak ditemukan!");
+  console.error("Pastikan kamu sudah menjalankan 'source ~/.bashrc' di Termux.");
+  process.exit(1);
+}
+
+const genAI = new GoogleGenerativeAI(apiKey);
+// Menggunakan model Gemini 1.5 Flash yang efisien untuk infrastruktur mobile
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+async function chat() {
+  console.log("\n--- Sistem Tanya Jawab IndramayuCLUB (Nur Gemini) ---");
+  console.log("Ketik 'keluar' untuk menonaktifkan mesin.\n");
+
+  const askQuestion = () => {
+    rl.question("Tanya Nur Gemini: ", async (userInput) => {
+      if (userInput.toLowerCase() === "keluar") {
+        console.log("Mesin kecerdasan dimatikan. Sampai jumpa!");
+        rl.close();
+        return;
+      }
+
+      try {
+        const result = await model.generateContent(userInput);
+        const response = await result.response;
+        console.log(`\nJawab: ${response.text()}\n`);
+      } catch (error) {
+        console.error("\n[Sistem Error]:", error.message, "\n");
+      }
+
+      // Melanjutkan loop obrolan mesin
+      askQuestion();
+    });
+  };
+
+  askQuestion();
+}
+
+chat();
+

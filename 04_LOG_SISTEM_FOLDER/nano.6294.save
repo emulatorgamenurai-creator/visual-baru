@@ -1,0 +1,129 @@
+const https = 
+require('https'); 
+const readline = 
+require('readline');
+// Masukkan API Key 
+// dari Google AI 
+// Studio di sini
+const API_KEY = 
+"AIzaSyAAd_AEPodnk2NS91z9Bcj3GPiPyas9QiY"; 
+const rl = 
+readline.createInterface({
+    input: 
+    process.stdin, 
+    output: 
+    process.stdout
+});
+function 
+tanyaAI(pesanUser) 
+{
+    const data = 
+    JSON.stringify({
+        contents: 
+        [{ parts: 
+        [{ text: 
+        pesanUser 
+        }] }]
+    });
+    const options = 
+    {
+        hostname: 
+        'generativelanguage.googleapis.com', 
+        port: 443, 
+        path: 
+        `/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`, 
+        method: 
+        'POST', 
+        headers: {
+            'Content-Type': 
+            'application/json', 
+            'Content-Length': 
+            data.length
+        }
+    };
+    const req = 
+    https.request(options, 
+    (res) => {
+        let body = 
+        ''; 
+        res.on('data', 
+        (chunk) => 
+        body += 
+        chunk); 
+        res.on('end', 
+        () => {
+            try { 
+                const 
+                json 
+                = 
+                JSON.parse(body); 
+                if 
+                (json.candidates 
+                && 
+                json.candidates[0].content.parts[0].text) 
+                {
+                    console.log("\n[Gemini]:", 
+                    json.candidates[0].content.parts[0].text);
+                } else 
+                } {
+                    console.log("\n[Sistem]: 
+                    Respon 
+                    kosong 
+                    atau 
+                    API 
+                    Key 
+                    salah.");
+                }
+            } catch 
+            } (e) {
+                console.log("\n[Sistem]: 
+                Gagal 
+                membaca 
+                data 
+                dari 
+                AI 
+                Studio.");
+            }
+            logikaChat(); 
+            // 
+            Panggil 
+            chat 
+            lagi
+        });
+    });
+    req.on('error', 
+    (error) => {
+        console.error("\n[Error 
+        Jaringan]: 
+        Sinyal 
+        terputus,", 
+        error.message); 
+        logikaChat();
+    });
+    req.write(data); 
+    req.end();
+}
+function 
+logikaChat() {
+    rl.question('\n[Nur 
+    Makrifat]: ', 
+    (userInput) => 
+    {
+        if 
+        (userInput.toLowerCase() 
+        === 'exit') 
+        {
+            console.log("Menutup 
+            sistem..."); 
+            rl.close(); 
+            return;
+        }
+        tanyaAI(userInput);
+    });
+}
+console.log("=== 
+SISTEM SELESAI 
+DISEGEL & SIAP DI 
+AI STUDIO ==="); 
+logikaChat();
+

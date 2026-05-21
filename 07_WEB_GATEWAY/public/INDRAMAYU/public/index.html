@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INDRAMAYU CLUB MAKRIFAT - AI Gateway</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --card: #161b22;
+            --border: #30363d;
+            --text: #c9d1d9;
+            --blue: #58a6ff;
+            --green: #238636;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body { 
+            font-family: 'Segoe UI', Tahoma, sans-serif; 
+            background-color: var(--bg); 
+            color: var(--text); 
+            padding: 20px; 
+            display: flex; 
+            justify-content: center;
+            min-height: 100vh;
+        }
+        
+        .container { 
+            width: 100%; 
+            max-width: 700px; 
+            background: var(--card); 
+            padding: 30px; 
+            border-radius: 12px; 
+            border: 1px solid var(--border);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+        }
+        
+        h1 { 
+            color: var(--blue); 
+            text-align: center; 
+            margin-bottom: 5px;
+            font-size: 1.8em;
+        }
+        
+        .subtitle { 
+            text-align: center; 
+            font-size: 0.9em; 
+            color: #8b949e; 
+            margin-bottom: 25px;
+        }
+        
+        .status-box { 
+            background: #0d1117; 
+            padding: 15px; 
+            border-radius: 8px; 
+            border-left: 4px solid var(--green);
+            font-size: 0.9em; 
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+        
+        .status-box strong { color: var(--green); }
+        .status-box .error { color: #f85149; }
+        .status-box .success { color: var(--green); }
+
+        #chat-box {
+            height: 350px; 
+            overflow-y: auto;
+            background: #0d1117; 
+            border: 1px solid var(--border);
+            border-radius: 8px; 
+            padding: 15px; 
+            margin-bottom: 15px;
+            display: flex; 
+            flex-direction: column; 
+            gap: 10px;
+        }
+        
+        .msg { 
+            padding: 10px 14px; 
+            border-radius: 8px; 
+            max-width: 85%; 
+            line-height: 1.5;
+            word-wrap: break-word;
+        }
+        
+        .user-msg { 
+            background: var(--blue); 
+            color: white; 
+            align-self: flex-end;
+            text-align: right;
+        }
+        
+        .bot-msg { 
+            background: var(--border); 
+            color: var(--text); 
+            align-self: flex-start;
+        }
+        
+        .system-msg {
+            background: rgba(58, 166, 255, 0.1);
+            color: var(--blue);
+            border-left: 3px solid var(--blue);
+            align-self: center;
+            text-align: center;
+            font-size: 0.9em;
+        }
+
+        .input-group { 
+            display: flex; 
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        input { 
+            flex: 1; 
+            background: #0d1117; 
+            border: 1px solid var(--border);
+            color: white; 
+            padding: 12px; 
+            border-radius: 6px; 
+            outline: none;
+            font-size: 0.95em;
+            transition: border-color 0.2s;
+        }
+        
+        input:focus {
+            border-color: var(--blue);
+        }
+        
+        button { 
+            background: var(--green); 
+            color: white; 
+            border: none; 
+            padding: 10px 25px; 
+            border-radius: 6px; 
+            cursor: pointer; 
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+        
+        button:hover { 
+            background: #2ea043; 
+        }
+        
+        button:active {
+            transform: scale(0.98);
+        }
+        
+        .config-section {
+            background: #0d1117;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 0.85em;
+            border: 1px solid var(--border);
+        }
+        
+        .config-section p {
+            margin: 8px 0;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .config-section label {
+            display: block;
+            margin: 10px 0 5px 0;
+            color: var(--green);
+            font-weight: bold;
+        }
+        
+        .config-section input[type="text"] {
+            width: 100%;
+            font-size: 0.9em;
+        }
+        
+        .footer { 
+            text-align: center; 
+            margin-top: 25px; 
+            font-size: 0.75em; 
+            color: #8b949e; 
+            border-top: 1px solid var(--border); 
+            padding-top: 15px;
+        }
+        
+        .loading {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: var(--green);
+            border-radius: 50%;
+            animation: pulse 1.5s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        @media (max-width: 600px) {
+            .container { padding: 20px; }
+            h1 { font-size: 1.4em; }
+            #chat-box { height: 250px; }
+            .msg { max-width: 95%; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🌍 Indramayu Club Makrifat</h1>
+    <div class="subtitle">AI Gateway - Lead System Architect</div>
+
+    <div class="status-box">
+        <div>
+            <strong>Status:</strong> 
+            <span id="status-indicator" class="success">● ACTIVE</span>
+        </div>
+        <div style="margin-top: 8px;">
+            <strong>Gateway:</strong> INDRAMAYU-Global-Jalur-Utama
+        </div>
+        <div style="margin-top: 8px;">
+            <strong>Mode:</strong> <span id="mode-indicator">Auto-Detect</span>
+        </div>
+    </div>
+
+    <div class="config-section">
+        <label>🔧 Google Apps Script URL</label>
+        <input type="text" id="gasUrl" placeholder="https://script.google.com/macros/s/YOUR_URL/exec" value="https://script.google.com/macros/s/AKfycbw4x-gyPMRL_48Y-btTbZi77Jv3xglxn8ZUMMmWpkOPYQWxE0enjhfipzSDN71YEloD/exec">
+        <p style="margin-top: 10px; color: #8b949e; font-size: 0.8em;">💡 Simpan URL Google Apps Script Anda di atas</p>
+    </div>
+
+    <div id="chat-box">
+        <div class="msg system-msg">Sistem Siap - Tunggu Instruksi</div>
+    </div>
+
+    <div class="input-group">
+        <input type="text" id="userInput" placeholder="Kirim perintah makrifat..." onkeypress="if(event.key === 'Enter') kirimPesan()">
+        <button onclick="kirimPesan()">Kirim</button>
+    </div>
+
+    <div class="footer">
+        <div>© 2026 IndramayuCLUB Global Infrastructure</div>
+        <div style="margin-top: 8px;">
+            🖥️ <strong>Akses:</strong><br>
+            Web: <code>https://emulatorgamenurai-creator.github.io/INDRAMAYU/</code><br>
+            Local: <code>http://localhost:3000</code>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Auto-detect environment
+    const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    const modeIndicator = document.getElementById('mode-indicator');
+    modeIndicator.textContent = isLocalhost ? '🖥️ Local Development' : '🌐 Web Production';
+
+    // Restore saved URL from localStorage
+    window.addEventListener('DOMContentLoaded', () => {
+        const savedUrl = localStorage.getItem('gasUrl');
+        if (savedUrl) {
+            document.getElementById('gasUrl').value = savedUrl;
+        }
+    });
+
+    // Save URL when changed
+    document.getElementById('gasUrl').addEventListener('change', (e) => {
+        localStorage.setItem('gasUrl', e.target.value);
+    });
+
+    async function kirimPesan() {
+        const input = document.getElementById('userInput');
+        const chatBox = document.getElementById('chat-box');
+        const gasUrl = document.getElementById('gasUrl').value;
+        const text = input.value.trim();
+
+        if (!text) return;
+        if (!gasUrl) {
+            appendMessage('bot-msg', '❌ Error: Silakan masukkan Google Apps Script URL terlebih dahulu');
+            return;
+        }
+
+        // Tampilkan pesan user
+        appendMessage('user-msg', text);
+        input.value = '';
+
+        // Show loading indicator
+        const loadingMsg = document.createElement('div');
+        loadingMsg.className = 'msg system-msg';
+        loadingMsg.innerHTML = '<span class="loading"></span> Processing...';
+        chatBox.appendChild(loadingMsg);
+        chatBox.scrollTop = chatBox.scrollHeight;
+
+        try {
+            const response = await fetch(gasUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: 'pertanyaan=' + encodeURIComponent(text),
+                mode: 'no-cors'
+            });
+
+            // Remove loading indicator
+            loadingMsg.remove();
+
+            // Try to parse response
+            try {
+                const data = await response.json();
+                if (data.response) {
+                    appendMessage('bot-msg', data.response);
+                } else {
+                    appendMessage('bot-msg', "✅ Request terkirim ke Google Apps Script");
+                }
+            } catch (e) {
+                // If response is not JSON, show success message
+                appendMessage('bot-msg', "✅ Pesan dikirim (mode CORS: response tidak dapat dibaca)");
+            }
+        } catch (error) {
+            loadingMsg.remove();
+            appendMessage('bot-msg', '❌ Koneksi Error: ' + error.message + '\n\n💡 Tips: Pastikan Google Apps Script sudah di-deploy sebagai Web App dengan akses "Anyone"');
+        }
+
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function appendMessage(className, text) {
+        const chatBox = document.getElementById('chat-box');
+        const div = document.createElement('div');
+        div.className = 'msg ' + className;
+        div.innerText = text;
+        chatBox.appendChild(div);
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    // Allow Enter key to send message
+    document.getElementById('userInput').addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+            kirimPesan();
+        }
+    });
+</script>
+
+</body>
+</html>

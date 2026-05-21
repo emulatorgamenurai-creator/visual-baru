@@ -1,4 +1,7 @@
 01_ARSIP_PROTEKSI/
 09_SECURITY_KEYS/
+<<<<<<< HEAD
 .config/
 resources/
+=======
+>>>>>>> 4aafdb5 (🚀 PRODUCTION: Safe deploy using env token authentication)

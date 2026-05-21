@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@google/genai": "^2.4.0",
+    "dotenv": "^17.4.2"
+  },
+  "name": "googe-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/emulatorgamenurai-creator/INDRAMAYU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/emulatorgamenurai-creator/INDRAMAYU/issues"
+  },
+  "homepage": "https://github.com/emulatorgamenurai-creator/INDRAMAYU#readme"
+}

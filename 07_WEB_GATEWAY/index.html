@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base target="_top">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Indramayu Club Makrifat - Jalur Utama</title>
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #0d1117; color: #c9d1d9; padding: 20px; }
+    .container { max-width: 800px; margin: auto; background: #161b22; padding: 25px; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 8px 32px rgba(0,0,0,0.5); }
+    h2 { color: #58a6ff; text-align: center; border-bottom: 2px solid #21262d; padding-bottom: 10px; }
+    .status-box { background: #21262d; padding: 15px; border-radius: 8px; margin-bottom: 20px; border-left: 4px solid #238636; }
+    .btn { background-color: #238636; color: white; border: none; padding: 12px 24px; border-radius: 6px; cursor: pointer; width: 100%; font-size: 16px; font-weight: bold; transition: 0.3s; }
+    .btn:hover { background-color: #2ea043; }
+    #output { margin-top: 20px; padding: 15px; background: #010409; border-radius: 6px; font-family: 'Courier New', monospace; font-size: 13px; overflow-x: auto; white-space: pre-wrap; color: #7ee787; border: 1px solid #30363d; }
+    .footer { text-align: center; margin-top: 20px; font-size: 12px; color: #8b949e; }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h2>Indramayu Club Makrifat</h2>
+  <div class="status-box">
+    <strong>Sistem Gateway:</strong> Terhubung (dkohar011)<br>
+    <strong>Device:</strong> vivo V40 Lite<br>
+    <strong>Mode:</strong> Jalur Bypass Konfigurasi Utama
+  </div>
+
+  <button class="btn" onclick="ambilDataMakrifat()">Tarik Semua Data Skrip</button>
+
+  <div id="output">Menunggu perintah Tuan...</div>
+
+  <div class="footer">
+    Dikendalikan secara manual oleh Lead System Architect<br>
+    © 2026 IndramayuCLUB Global
+  </div>
+</div>
+
+<script>
+  const url = "https://script.google.com/macros/s/AKfycbw4x-gyPMRL_48Y-btTbZi77Jv3xglxn8ZUMMmWpkOPYQWxE0enjhfipzSDN71YEloD/exec";
+
+  function ambilDataMakrifat() {
+    const outputDiv = document.getElementById('output');
+    outputDiv.innerText = "🔄 Menghubungi Jalur Makrifat... Mohon tunggu.";
+    
+    // Mengambil data menggunakan metode GET ke Web App Tuan
+    fetch(url)
+      .then(response => response.json())
+      .then(data => {
+        outputDiv.innerText = "✅ DATA BERHASIL DITARIK:\n\n" + JSON.stringify(data, null, 2);
+      })
+      .catch(error => {
+        outputDiv.innerHTML = "<span style='color:#f85149'>❌ GAGAL: Fungsi doPost/doGet tidak ditemukan atau akses ditolak. Pastikan skrip sudah di-deploy ulang.</span>";
+        console.error('Error:', error);
+      });
+  }
+</script>
+
+</body>
+</html>
+
