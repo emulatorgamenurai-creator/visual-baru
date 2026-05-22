@@ -2,18 +2,718 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Project</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-1</title>
+      <link>http://localhost:1313/member/member_1/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_1/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_1&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;25&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-10</title>
+      <link>http://localhost:1313/member/member_10/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_10/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_10&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;250&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-100</title>
+      <link>http://localhost:1313/member/member_100/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_100/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_100&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2500&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-11</title>
+      <link>http://localhost:1313/member/member_11/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_11/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_11&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;275&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-12</title>
+      <link>http://localhost:1313/member/member_12/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_12/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_12&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;300&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-13</title>
+      <link>http://localhost:1313/member/member_13/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_13/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_13&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;325&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-14</title>
+      <link>http://localhost:1313/member/member_14/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_14/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_14&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;350&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-15</title>
+      <link>http://localhost:1313/member/member_15/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_15/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_15&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;375&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-16</title>
+      <link>http://localhost:1313/member/member_16/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_16/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_16&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;400&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-17</title>
+      <link>http://localhost:1313/member/member_17/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_17/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_17&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;425&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-18</title>
+      <link>http://localhost:1313/member/member_18/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_18/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_18&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;450&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-19</title>
+      <link>http://localhost:1313/member/member_19/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_19/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_19&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;475&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-2</title>
+      <link>http://localhost:1313/member/member_2/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_2/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_2&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;50&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-20</title>
+      <link>http://localhost:1313/member/member_20/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_20/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_20&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;500&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-21</title>
+      <link>http://localhost:1313/member/member_21/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_21/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_21&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;525&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-22</title>
+      <link>http://localhost:1313/member/member_22/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_22/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_22&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;550&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-23</title>
+      <link>http://localhost:1313/member/member_23/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_23/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_23&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;575&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-24</title>
+      <link>http://localhost:1313/member/member_24/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_24/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_24&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;600&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-25</title>
+      <link>http://localhost:1313/member/member_25/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_25/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_25&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;625&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-26</title>
+      <link>http://localhost:1313/member/member_26/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_26/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_26&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;650&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-27</title>
+      <link>http://localhost:1313/member/member_27/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_27/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_27&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;675&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-28</title>
+      <link>http://localhost:1313/member/member_28/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_28/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_28&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;700&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-29</title>
+      <link>http://localhost:1313/member/member_29/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_29/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_29&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;725&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-3</title>
+      <link>http://localhost:1313/member/member_3/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_3/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_3&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;75&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-30</title>
+      <link>http://localhost:1313/member/member_30/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_30/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_30&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;750&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-31</title>
+      <link>http://localhost:1313/member/member_31/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_31/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_31&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;775&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-32</title>
+      <link>http://localhost:1313/member/member_32/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_32/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_32&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;800&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-33</title>
+      <link>http://localhost:1313/member/member_33/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_33/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_33&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;825&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-34</title>
+      <link>http://localhost:1313/member/member_34/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_34/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_34&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;850&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-35</title>
+      <link>http://localhost:1313/member/member_35/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_35/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_35&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;875&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-36</title>
+      <link>http://localhost:1313/member/member_36/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_36/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_36&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;900&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-37</title>
+      <link>http://localhost:1313/member/member_37/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_37/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_37&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;925&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-38</title>
+      <link>http://localhost:1313/member/member_38/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_38/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_38&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;950&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-39</title>
+      <link>http://localhost:1313/member/member_39/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_39/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_39&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;975&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-4</title>
+      <link>http://localhost:1313/member/member_4/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_4/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_4&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;100&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-40</title>
+      <link>http://localhost:1313/member/member_40/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_40/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_40&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1000&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-41</title>
+      <link>http://localhost:1313/member/member_41/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_41/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_41&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1025&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-42</title>
+      <link>http://localhost:1313/member/member_42/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_42/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_42&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1050&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-43</title>
+      <link>http://localhost:1313/member/member_43/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_43/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_43&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1075&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-44</title>
+      <link>http://localhost:1313/member/member_44/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_44/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_44&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1100&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-45</title>
+      <link>http://localhost:1313/member/member_45/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_45/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_45&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1125&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-46</title>
+      <link>http://localhost:1313/member/member_46/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_46/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_46&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1150&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-47</title>
+      <link>http://localhost:1313/member/member_47/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_47/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_47&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1175&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-48</title>
+      <link>http://localhost:1313/member/member_48/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_48/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_48&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1200&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-49</title>
+      <link>http://localhost:1313/member/member_49/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_49/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_49&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1225&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-5</title>
+      <link>http://localhost:1313/member/member_5/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_5/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_5&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;125&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-50</title>
+      <link>http://localhost:1313/member/member_50/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_50/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_50&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1250&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-51</title>
+      <link>http://localhost:1313/member/member_51/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_51/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_51&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1275&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-52</title>
+      <link>http://localhost:1313/member/member_52/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_52/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_52&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1300&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-53</title>
+      <link>http://localhost:1313/member/member_53/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_53/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_53&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1325&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-54</title>
+      <link>http://localhost:1313/member/member_54/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_54/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_54&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1350&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-55</title>
+      <link>http://localhost:1313/member/member_55/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_55/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_55&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1375&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-56</title>
+      <link>http://localhost:1313/member/member_56/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_56/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_56&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1400&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-57</title>
+      <link>http://localhost:1313/member/member_57/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_57/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_57&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1425&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-58</title>
+      <link>http://localhost:1313/member/member_58/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_58/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_58&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1450&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-59</title>
+      <link>http://localhost:1313/member/member_59/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_59/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_59&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1475&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-6</title>
+      <link>http://localhost:1313/member/member_6/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_6/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_6&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;150&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-60</title>
+      <link>http://localhost:1313/member/member_60/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_60/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_60&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1500&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-61</title>
+      <link>http://localhost:1313/member/member_61/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_61/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_61&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1525&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-62</title>
+      <link>http://localhost:1313/member/member_62/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_62/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_62&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1550&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-63</title>
+      <link>http://localhost:1313/member/member_63/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_63/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_63&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1575&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-64</title>
+      <link>http://localhost:1313/member/member_64/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_64/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_64&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1600&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-65</title>
+      <link>http://localhost:1313/member/member_65/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_65/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_65&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1625&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-66</title>
+      <link>http://localhost:1313/member/member_66/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_66/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_66&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1650&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-67</title>
+      <link>http://localhost:1313/member/member_67/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_67/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_67&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1675&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-68</title>
+      <link>http://localhost:1313/member/member_68/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_68/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_68&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1700&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-69</title>
+      <link>http://localhost:1313/member/member_69/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_69/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_69&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1725&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-7</title>
+      <link>http://localhost:1313/member/member_7/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_7/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_7&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;175&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-70</title>
+      <link>http://localhost:1313/member/member_70/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_70/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_70&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1750&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-71</title>
+      <link>http://localhost:1313/member/member_71/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_71/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_71&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1775&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-72</title>
+      <link>http://localhost:1313/member/member_72/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_72/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_72&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1800&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-73</title>
+      <link>http://localhost:1313/member/member_73/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_73/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_73&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1825&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-74</title>
+      <link>http://localhost:1313/member/member_74/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_74/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_74&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1850&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-75</title>
+      <link>http://localhost:1313/member/member_75/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_75/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_75&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1875&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-76</title>
+      <link>http://localhost:1313/member/member_76/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_76/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_76&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1900&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-77</title>
+      <link>http://localhost:1313/member/member_77/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_77/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_77&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1925&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-78</title>
+      <link>http://localhost:1313/member/member_78/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_78/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_78&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1950&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-79</title>
+      <link>http://localhost:1313/member/member_79/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_79/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_79&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;1975&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-8</title>
+      <link>http://localhost:1313/member/member_8/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_8/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_8&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;200&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-80</title>
+      <link>http://localhost:1313/member/member_80/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_80/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_80&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2000&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-81</title>
+      <link>http://localhost:1313/member/member_81/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_81/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_81&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2025&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-82</title>
+      <link>http://localhost:1313/member/member_82/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_82/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_82&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2050&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-83</title>
+      <link>http://localhost:1313/member/member_83/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_83/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_83&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2075&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-84</title>
+      <link>http://localhost:1313/member/member_84/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_84/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_84&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2100&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-85</title>
+      <link>http://localhost:1313/member/member_85/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_85/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_85&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2125&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-86</title>
+      <link>http://localhost:1313/member/member_86/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_86/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_86&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2150&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-87</title>
+      <link>http://localhost:1313/member/member_87/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_87/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_87&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2175&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-88</title>
+      <link>http://localhost:1313/member/member_88/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_88/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_88&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2200&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-89</title>
+      <link>http://localhost:1313/member/member_89/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_89/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_89&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2225&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-9</title>
+      <link>http://localhost:1313/member/member_9/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_9/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_9&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;225&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-90</title>
+      <link>http://localhost:1313/member/member_90/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_90/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_90&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2250&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-91</title>
+      <link>http://localhost:1313/member/member_91/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_91/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_91&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2275&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-92</title>
+      <link>http://localhost:1313/member/member_92/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_92/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_92&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2300&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-93</title>
+      <link>http://localhost:1313/member/member_93/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_93/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_93&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2325&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-94</title>
+      <link>http://localhost:1313/member/member_94/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_94/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_94&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2350&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-95</title>
+      <link>http://localhost:1313/member/member_95/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_95/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_95&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2375&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-96</title>
+      <link>http://localhost:1313/member/member_96/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_96/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_96&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2400&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-97</title>
+      <link>http://localhost:1313/member/member_97/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_97/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_97&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2425&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-98</title>
+      <link>http://localhost:1313/member/member_98/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_98/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_98&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2450&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Member: Anggota Sukses ke-99</title>
+      <link>http://localhost:1313/member/member_99/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/member_99/</guid>
+      <description>&lt;h3 id=&#34;hasil-kalkulator-ai-anda&#34;&gt;Hasil Kalkulator AI Anda:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Member: &lt;code&gt;@member_99&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Total Skor Kontribusi: &lt;strong&gt;2475&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧠 &lt;strong&gt;Analisis Qwen Lokal (Bebas Sinyal Kalimantan):&lt;/strong&gt;&#xA;&amp;ldquo;Kelola aset digital Anda dengan bijak untuk stabilitas jangka panjang.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
     <item>
       <title>Daftar Link Resmi Indramayu Club Global</title>
-      <link>https://example.org/post/media_global/</link>
+      <link>http://localhost:1313/post/media_global/</link>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/media_global/</guid>
-      <description>&lt;div style=&#34;font-family: &#39;Segoe UI&#39;, Arial, sans-serif; padding: 20px; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-top: 4px solid #0056b3;&#34;&gt;&#xA;    &lt;h2 style=&#34;color: #0056b3; margin-top: 0; padding-bottom: 8px; border-bottom: 2px solid #f0f0f0;&#34;&gt;PORTAL MEDIA GLOBAL&lt;/h2&gt;&#xA;    &lt;p style=&#34;color: #666; font-size: 13px; font-style: italic;&#34;&gt;Sistem Sinkronisasi Otomatis Master Nur Lokal&lt;/p&gt;&#xA;&#xA;    &lt;pre style=&#34;background: #212529; color: #a9ffb2; padding: 15px; border-radius: 5px; font-family: &#39;Courier New&#39;, monospace; overflow-x: auto; white-space: pre-wrap; font-size: 14px; line-height: 1.5; box-shadow: inset 0 2px 4px rgba(0,0,0,0.3);&#34;&gt;&#xA;&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;link rel=&#34;shortcut icon&#34; href=&#34;//ssl.gstatic.com/docs/script/images/favicon.ico&#34;&gt;&lt;title&gt;Salah&lt;/title&gt;&lt;style type=&#34;text/css&#34; nonce=&#34;_ym1b1bUzxD9sqpcBUHGqw&#34;&gt;body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}&lt;/style&gt;&lt;/head&gt;&lt;body style=&#34;margin:20px&#34;&gt;&lt;div&gt;&lt;img alt=&#34;Google Apps Script&#34; src=&#34;//ssl.gstatic.com/docs/script/images/logo.png&#34;&gt;&lt;/div&gt;&lt;div style=&#34;text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px&#34;&gt;Fungsi skrip tidak ditemukan: doGet&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;&#xA;    &lt;/pre&gt;&#xA;&#xA;    &lt;div style=&#34;margin-top: 15px; font-size: 12px; color: #28a745; font-weight: bold; display: flex; align-items: center;&#34;&gt;&#xA;        &lt;span&gt;✓ DATA TERVERIFIKASI AMAN DAN BEBAS KEBOCORAN SIBER&lt;/span&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/post/media_global/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;id&#34;&gt;&#xA;&lt;head&gt;&#xA;&lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;&lt;title&gt;Kalkulator – Pasar Indramayu Club Makrifat&lt;/title&gt;&#xA;&lt;link href=&#34;https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&amp;family=Plus+Jakarta+Sans:ital,wght@0,400;0,600;1,400&amp;display=swap&#34; rel=&#34;stylesheet&#34;&gt;&#xA;&lt;style&gt;&#xA;  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }&#xA;&#xA;  :root {&#xA;    --bg-dark:    #030914;&#xA;    --panel-bg:   rgba(10, 25, 47, 0.75);&#xA;    --cyan-glow:  #00f0ff;&#xA;    --blue-bright:#38b6ff;&#xA;    --text-light: #e2f1ff;&#xA;    --btn-num:    rgba(20, 40, 80, 0.5);&#xA;    --btn-op:     rgba(0, 180, 216, 0.3);&#xA;    --btn-eq:     linear-gradient(135deg, #00b4d8 0%, #00f0ff 100%);&#xA;    --shadow-rgb: 0, 240, 255;&#xA;  }&#xA;&#xA;  body {&#xA;    min-height: 100vh;&#xA;    background: var(--bg-dark);&#xA;    display: flex;&#xA;    flex-direction: column;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    font-family: &#39;Plus Jakarta Sans&#39;, sans-serif;&#xA;    padding: 20px;&#xA;    overflow: hidden;&#xA;    position: relative;&#xA;  }&#xA;&#xA;   &#xA;  body::before {&#xA;    content: &#39;&#39;;&#xA;    position: fixed; inset: 0;&#xA;    background-image: &#xA;      linear-gradient(rgba(0, 240, 255, 0.03) 1px, transparent 1px),&#xA;      linear-gradient(90deg, rgba(0, 240, 255, 0.03) 1px, transparent 1px);&#xA;    background-size: 30px 30px;&#xA;    pointer-events: none;&#xA;  }&#xA;&#xA;  body::after {&#xA;    content: &#39;&#39;;&#xA;    position: fixed; inset: 0;&#xA;    background: radial-gradient(circle at 50% 50%, rgba(56, 182, 255, 0.15) 0%, transparent 70%);&#xA;    pointer-events: none;&#xA;  }&#xA;&#xA;  .wrapper {&#xA;    position: relative;&#xA;    z-index: 1;&#xA;    width: 100%;&#xA;    max-width: 380px;&#xA;  }&#xA;&#xA;   &#xA;  .header {&#xA;    text-align: center;&#xA;    margin-bottom: 20px;&#xA;    animation: fadeDown 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;&#xA;  }&#xA;&#xA;  .header .ornament {&#xA;    color: var(--cyan-glow);&#xA;    font-size: 1.2rem;&#xA;    letter-spacing: 6px;&#xA;    text-shadow: 0 0 10px var(--cyan-glow);&#xA;    opacity: 0.8;&#xA;  }&#xA;&#xA;  .header h1 {&#xA;    font-family: &#39;Orbitron&#39;, sans-serif;&#xA;    font-size: 1.25rem;&#xA;    font-weight: 700;&#xA;    color: #ffffff;&#xA;    text-shadow: 0 0 15px rgba(0, 240, 255, 0.6);&#xA;    letter-spacing: 1px;&#xA;    line-height: 1.4;&#xA;    margin: 6px 0;&#xA;  }&#xA;&#xA;  .header .sub {&#xA;    font-size: 0.8rem;&#xA;    color: var(--blue-bright);&#xA;    font-weight: 500;&#xA;    letter-spacing: 3px;&#xA;    text-transform: uppercase;&#xA;  }&#xA;&#xA;   &#xA;  .calc {&#xA;    background: var(--panel-bg);&#xA;    backdrop-filter: blur(12px);&#xA;    -webkit-backdrop-filter: blur(12px);&#xA;    border: 2px solid rgba(0, 240, 255, 0.3);&#xA;    border-radius: 24px;&#xA;    padding: 24px 20px 20px;&#xA;    box-shadow:&#xA;      0 0 30px rgba(0, 240, 255, 0.1),&#xA;      0 20px 50px rgba(0,0,0,0.5),&#xA;      inset 0 1px 2px rgba(255,255,255,0.1);&#xA;    animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) both 0.1s;&#xA;    position: relative;&#xA;  }&#xA;&#xA;   &#xA;  .calc::before {&#xA;    content: &#39;&#39;;&#xA;    position: absolute;&#xA;    top: -2px; left: 20%; right: 20%;&#xA;    height: 2px;&#xA;    background: linear-gradient(90deg, transparent, var(--cyan-glow), transparent);&#xA;    box-shadow: 0 0 10px var(--cyan-glow);&#xA;  }&#xA;&#xA;   &#xA;  .corner {&#xA;    position: absolute;&#xA;    width: 12px; height: 12px;&#xA;    border-color: var(--cyan-glow);&#xA;    border-style: solid;&#xA;    opacity: 0.8;&#xA;  }&#xA;  .corner.tl { top: 12px; left: 12px; border-width: 2px 0 0 2px; }&#xA;  .corner.tr { top: 12px; right: 12px; border-width: 2px 2px 0 0; }&#xA;  .corner.bl { bottom: 12px; left: 12px; border-width: 0 0 2px 2px; }&#xA;  .corner.br { bottom: 12px; right: 12px; border-width: 0 2px 2px 0; }&#xA;&#xA;   &#xA;  .display {&#xA;    background: rgba(5, 12, 28, 0.85);&#xA;    border: 1.5px solid rgba(0, 240, 255, 0.2);&#xA;    border-radius: 14px;&#xA;    padding: 16px 18px 12px;&#xA;    margin-bottom: 20px;&#xA;    min-height: 95px;&#xA;    display: flex;&#xA;    flex-direction: column;&#xA;    justify-content: flex-end;&#xA;    align-items: flex-end;&#xA;    box-shadow: inset 0 2px 8px rgba(0,0,0,0.8);&#xA;    position: relative;&#xA;  }&#xA;&#xA;  .display::before {&#xA;    content: &#39;⚡ MAKRIFAT DIGITAL ⚡&#39;;&#xA;    position: absolute;&#xA;    top: 8px; left: 18px;&#xA;    font-size: 0.55rem;&#xA;    font-family: &#39;Orbitron&#39;, sans-serif;&#xA;    letter-spacing: 2px;&#xA;    color: rgba(0, 240, 255, 0.4);&#xA;  }&#xA;&#xA;  .display .expr {&#xA;    font-family: &#39;Orbitron&#39;, sans-serif;&#xA;    font-size: 0.8rem;&#xA;    color: rgba(56, 182, 255, 0.6);&#xA;    min-height: 20px;&#xA;    word-break: break-all;&#xA;    text-align: right;&#xA;  }&#xA;&#xA;  .display .result {&#xA;    font-family: &#39;Orbitron&#39;, sans-serif;&#xA;    font-size: 2.3rem;&#xA;    font-weight: 500;&#xA;    color: #ffffff;&#xA;    text-shadow: 0 0 12px rgba(0, 240, 255, 0.5);&#xA;    word-break: break-all;&#xA;    text-align: right;&#xA;    line-height: 1.2;&#xA;    transition: all 0.15s;&#xA;  }&#xA;&#xA;  .display .result.big { font-size: 1.8rem; }&#xA;  .display .result.bigger { font-size: 1.3rem; }&#xA;&#xA;   &#xA;  .grid {&#xA;    display: grid;&#xA;    grid-template-columns: repeat(4, 1fr);&#xA;    gap: 10px;&#xA;  }&#xA;&#xA;  button {&#xA;    font-family: &#39;Orbitron&#39;, sans-serif;&#xA;    font-size: 1.15rem;&#xA;    font-weight: 500;&#xA;    border: 1px solid rgba(0, 240, 255, 0.15);&#xA;    border-radius: 12px;&#xA;    cursor: pointer;&#xA;    height: 56px;&#xA;    color: var(--text-light);&#xA;    transition: all 0.15s ease;&#xA;    position: relative;&#xA;    overflow: hidden;&#xA;  }&#xA;&#xA;  button:hover {&#xA;    border-color: rgba(0, 240, 255, 0.5);&#xA;    box-shadow: 0 0 10px rgba(0, 240, 255, 0.15);&#xA;  }&#xA;&#xA;  button:active { transform: scale(0.95); }&#xA;&#xA;   &#xA;  .btn-num {&#xA;    background: var(--btn-num);&#xA;  }&#xA;  .btn-num:hover {&#xA;    background: rgba(30, 60, 110, 0.6);&#xA;    color: #ffffff;&#xA;  }&#xA;&#xA;   &#xA;  .btn-op {&#xA;    background: var(--btn-op);&#xA;    color: var(--cyan-glow);&#xA;    border-color: rgba(0, 240, 255, 0.25);&#xA;  }&#xA;  .btn-op:hover {&#xA;    background: rgba(0, 180, 216, 0.45);&#xA;    text-shadow: 0 0 8px var(--cyan-glow);&#xA;  }&#xA;&#xA;   &#xA;  .btn-sp {&#xA;    background: rgba(15, 32, 67, 0.4);&#xA;    color: var(--blue-bright);&#xA;    font-size: 0.95rem;&#xA;  }&#xA;  .btn-sp:hover {&#xA;    background: rgba(25, 52, 107, 0.6);&#xA;    color: #ffffff;&#xA;  }&#xA;&#xA;   &#xA;  .btn-eq {&#xA;    background: var(--btn-eq);&#xA;    color: var(--bg-dark);&#xA;    font-weight: 700;&#xA;    border: none;&#xA;    box-shadow: 0 0 15px rgba(0, 240, 255, 0.4);&#xA;  }&#xA;  .btn-eq:hover {&#xA;    box-shadow: 0 0 22px rgba(0, 240, 255, 0.7);&#xA;    filter: brightness(1.1);&#xA;  }&#xA;&#xA;  .span2 { grid-column: span 2; }&#xA;&#xA;   &#xA;  .ripple {&#xA;    position: absolute;&#xA;    border-radius: 50%;&#xA;    background: rgba(0, 240, 255, 0.4);&#xA;    transform: scale(0);&#xA;    animation: ripple 0.4s linear;&#xA;    pointer-events: none;&#xA;  }&#xA;  @keyframes ripple { to { transform: scale(4); opacity: 0; } }&#xA;&#xA;   &#xA;  .footer {&#xA;    text-align: center;&#xA;    margin-top: 18px;&#xA;    font-size: 0.7rem;&#xA;    color: rgba(56, 182, 255, 0.4);&#xA;    letter-spacing: 2px;&#xA;    text-transform: uppercase;&#xA;    font-family: &#39;Orbitron&#39;, sans-serif;&#xA;    animation: fadeUp 0.8s ease both 0.3s;&#xA;  }&#xA;&#xA;  @keyframes fadeDown { from { opacity:0; transform:translateY(-15px); } to { opacity:1; transform:none; } }&#xA;  @keyframes fadeUp   { from { opacity:0; transform:translateY(15px);  } to { opacity:1; transform:none; } }&#xA;&#xA;  .pulse { animation: pulse 0.15s ease-out; }&#xA;  @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.02); } 100% { transform: scale(1); } }&#xA;&lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&#xA;&lt;div class=&#34;wrapper&#34;&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;ornament&#34;&gt;⚡ 🌐 ⚡&lt;/div&gt;&#xA;    &lt;h1&gt;Pasar Indramayu&lt;br&gt;Club Makrifat&lt;/h1&gt;&#xA;    &lt;div class=&#34;sub&#34;&gt;Kalkulator Berkah&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;calc&#34;&gt;&#xA;    &lt;div class=&#34;corner tl&#34;&gt;&lt;/div&gt;&#xA;    &lt;div class=&#34;corner tr&#34;&gt;&lt;/div&gt;&#xA;    &lt;div class=&#34;corner bl&#34;&gt;&lt;/div&gt;&#xA;    &lt;div class=&#34;corner br&#34;&gt;&lt;/div&gt;&#xA;&#xA;    &lt;div class=&#34;display&#34;&gt;&#xA;      &lt;div class=&#34;expr&#34; id=&#34;expr&#34;&gt;&lt;/div&gt;&#xA;      &lt;div class=&#34;result&#34; id=&#34;result&#34;&gt;0&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;div class=&#34;grid&#34;&gt;&#xA;      &lt;button class=&#34;btn-sp&#34; onclick=&#34;clearAll()&#34;&gt;AC&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-sp&#34; onclick=&#34;toggleSign()&#34;&gt;+/-&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-sp&#34; onclick=&#34;percent()&#34;&gt;%&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-op&#34; onclick=&#34;setOp(&#39;÷&#39;)&#34;&gt;÷&lt;/button&gt;&#xA;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;7&#39;)&#34;&gt;7&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;8&#39;)&#34;&gt;8&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;9&#39;)&#34;&gt;9&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-op&#34; onclick=&#34;setOp(&#39;×&#39;)&#34;&gt;×&lt;/button&gt;&#xA;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;4&#39;)&#34;&gt;4&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;5&#39;)&#34;&gt;5&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;6&#39;)&#34;&gt;6&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-op&#34; onclick=&#34;setOp(&#39;−&#39;)&#34;&gt;−&lt;/button&gt;&#xA;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;1&#39;)&#34;&gt;1&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;2&#39;)&#34;&gt;2&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;num(&#39;3&#39;)&#34;&gt;3&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-op&#34; onclick=&#34;setOp(&#39;+&#39;)&#34;&gt;+&lt;/button&gt;&#xA;&#xA;      &lt;button class=&#34;btn-num span2&#34; onclick=&#34;num(&#39;0&#39;)&#34;&gt;0&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-num&#34; onclick=&#34;dot()&#34;&gt;.&lt;/button&gt;&#xA;      &lt;button class=&#34;btn-eq&#34; onclick=&#34;calc()&#34;&gt;=&lt;/button&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;footer&#34;&gt;✦ Global Blessing System ✦&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;script&gt;&#xA;  let cur = &#39;0&#39;, prev = &#39;&#39;, op = &#39;&#39;, shouldReset = false;&#xA;&#xA;  const disp  = document.getElementById(&#39;result&#39;);&#xA;  const expr  = document.getElementById(&#39;expr&#39;);&#xA;&#xA;  function updateDisplay(val) {&#xA;    disp.textContent = format(val);&#xA;    const len = String(format(val)).length;&#xA;    disp.className = &#39;result&#39; + (len &gt; 12 ? &#39; bigger&#39; : len &gt; 8 ? &#39; big&#39; : &#39;&#39;);&#xA;    disp.classList.add(&#39;pulse&#39;);&#xA;    setTimeout(() =&gt; disp.classList.remove(&#39;pulse&#39;), 150);&#xA;  }&#xA;&#xA;  function format(n) {&#xA;    if (n === &#39;Error&#39;) return &#39;Error&#39;;&#xA;    const s = String(n);&#xA;    if (s.endsWith(&#39;.&#39;) || (s.includes(&#39;.&#39;) &amp;&amp; s.endsWith(&#39;0&#39;))) return s;&#xA;    const num = parseFloat(n);&#xA;    if (isNaN(num)) return s;&#xA;    if (Math.abs(num) &gt;= 1e15) return num.toExponential(4);&#xA;    return num.toLocaleString(&#39;id-ID&#39;, { maximumFractionDigits: 10 });&#xA;  }&#xA;&#xA;  function num(d) {&#xA;    rippleBtn(event);&#xA;    if (shouldReset) { cur = d === &#39;.&#39; ? &#39;0&#39; : d; shouldReset = false; }&#xA;    else if (cur === &#39;0&#39; &amp;&amp; d !== &#39;.&#39;) cur = d;&#xA;    else if (cur.length &lt; 18) cur += d;&#xA;    updateDisplay(cur);&#xA;  }&#xA;&#xA;  function dot() {&#xA;    rippleBtn(event);&#xA;    if (shouldReset) { cur = &#39;0.&#39;; shouldReset = false; }&#xA;    else if (!cur.includes(&#39;.&#39;)) cur += &#39;.&#39;;&#xA;    updateDisplay(cur);&#xA;  }&#xA;&#xA;  function setOp(o) {&#xA;    rippleBtn(event);&#xA;    if (op &amp;&amp; !shouldReset) calculate();&#xA;    prev = cur; op = o; shouldReset = true;&#xA;    expr.textContent = format(prev) + &#39; &#39; + o;&#xA;  }&#xA;&#xA;  function calculate() {&#xA;    if (!op || !prev) return;&#xA;    const a = parseFloat(prev), b = parseFloat(cur);&#xA;    let res;&#xA;    if (op === &#39;+&#39;)  res = a + b;&#xA;    if (op === &#39;−&#39;)  res = a - b;&#xA;    if (op === &#39;×&#39;)  res = a * b;&#xA;    if (op === &#39;÷&#39;)  res = b === 0 ? &#39;Error&#39; : a / b;&#xA;    expr.textContent = format(prev) + &#39; &#39; + op + &#39; &#39; + format(cur) + &#39; =&#39;;&#xA;    cur = res === &#39;Error&#39; ? &#39;Error&#39; : String(+res.toFixed(10));&#xA;    op = &#39;&#39;; prev = &#39;&#39;; shouldReset = true;&#xA;    updateDisplay(cur);&#xA;  }&#xA;&#xA;  function calc() {&#xA;    rippleBtn(event);&#xA;    calculate();&#xA;  }&#xA;&#xA;  function clearAll() {&#xA;    rippleBtn(event);&#xA;    cur = &#39;0&#39;; prev = &#39;&#39;; op = &#39;&#39;; shouldReset = false;&#xA;    expr.textContent = &#39;&#39;;&#xA;    updateDisplay(&#39;0&#39;);&#xA;  }&#xA;&#xA;  function toggleSign() {&#xA;    rippleBtn(event);&#xA;    if (cur === &#39;0&#39; || cur === &#39;Error&#39;) return;&#xA;    cur = String(-parseFloat(cur));&#xA;    updateDisplay(cur);&#xA;  }&#xA;&#xA;  function percent() {&#xA;    rippleBtn(event);&#xA;    if (cur === &#39;Error&#39;) return;&#xA;    cur = String(parseFloat(cur) / 100);&#xA;    updateDisplay(cur);&#xA;  }&#xA;&#xA;  function rippleBtn(e) {&#xA;    if (!e || !e.currentTarget) return;&#xA;    const btn = e.currentTarget;&#xA;    const r = document.createElement(&#39;span&#39;);&#xA;    r.className = &#39;ripple&#39;;&#xA;    const rect = btn.getBoundingClientRect();&#xA;    const size = Math.max(rect.width, rect.height);&#xA;    r.style.cssText = `width:${size}px;height:${size}px;left:${(rect.width-size)/2}px;top:${(rect.height-size)/2}px`;&#xA;    btn.appendChild(r);&#xA;    setTimeout(() =&gt; r.remove(), 400);&#xA;  }&#xA;&#xA;  &#xA;  document.addEventListener(&#39;keydown&#39;, e =&gt; {&#xA;    const k = e.key;&#xA;    if (&#39;0123456789&#39;.includes(k))      { num(k); }&#xA;    else if (k === &#39;.&#39;)                { dot(); }&#xA;    else if (k === &#39;+&#39;)                { setOp(&#39;+&#39;); }&#xA;    else if (k === &#39;-&#39;)                { setOp(&#39;−&#39;); }&#xA;    else if (k === &#39;*&#39;)                { setOp(&#39;×&#39;); }&#xA;    else if (k === &#39;/&#39;)                { e.preventDefault(); setOp(&#39;÷&#39;); }&#xA;    else if (k === &#39;Enter&#39; || k === &#39;=&#39;) { calc(); }&#xA;    else if (k === &#39;Backspace&#39;)        { if (!shouldReset &amp;&amp; cur.length &gt; 1) cur = cur.slice(0,-1); else cur = &#39;0&#39;; updateDisplay(cur); }&#xA;    else if (k === &#39;Escape&#39;)           { clearAll(); }&#xA;    else if (k === &#39;%&#39;)                { percent(); }&#xA;  });&#xA;&lt;/script&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;font-family: &#39;Segoe UI&#39;, Arial, sans-serif; padding: 20px; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-top: 4px solid #0056b3;&#34;&gt;&#xA;    &lt;h2 style=&#34;color: #0056b3; margin-top: 0; padding-bottom: 8px; border-bottom: 2px solid #f0f0f0;&#34;&gt;PORTAL MEDIA GLOBAL&lt;/h2&gt;&#xA;    &lt;p style=&#34;color: #666; font-size: 13px; font-style: italic;&#34;&gt;Sistem Sinkronisasi Otomatis Master Nur Lokal&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

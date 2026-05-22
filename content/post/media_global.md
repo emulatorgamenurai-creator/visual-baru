@@ -3,6 +3,7 @@ title: "Daftar Link Resmi Indramayu Club Global"
 date: 2026-05-21
 draft: false
 ---
+{{< kalkulator-biru >}}
 
 {{< rawhtml >}}
 <div style="font-family: 'Segoe UI', Arial, sans-serif; padding: 20px; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-top: 4px solid #0056b3;">
