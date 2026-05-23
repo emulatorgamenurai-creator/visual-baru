@@ -24,3 +24,16 @@
         "otoritas_kontrol": "JAMHARI_DUL_KOHAR_ADMINISTRATOR"
     }
 }
+{"timestamp": "2026-05-23 09:40:16", "indeks": "1/1", "nama_file": "foto_sistem.jpg", "respon_saraf": "ERROR_KONEKSI: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)", "status": "GAGAL_KONEKSI"}
+
+=== MANIFES RINGKASAN PABRIK ===
+{
+    "SINKRONISASI_MANIFES": {
+        "waktu_mulai": "2026-05-23 09:39:46",
+        "waktu_selesai": "2026-05-23 09:40:16",
+        "total_aset_diproses": 1,
+        "total_sukses_stempel": 0,
+        "total_gagal": 1,
+        "otoritas_kontrol": "JAMHARI_DUL_KOHAR_ADMINISTRATOR"
+    }
+}
