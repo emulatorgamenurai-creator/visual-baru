@@ -3,7 +3,7 @@ title: "Pusat Saraf Makrifat"
 draft: false
 ---
 
-🤖 Pusat tv digital Saraf Indramayu Club (- Mei 2026) 
+🤖 Pusat tv digital Saraf Indramayu Club (- Mei 2026)
 
 🛡️ Pasukan Makrifat (Unit Bot Pengawas)
 {{< pasukan 1000 "Gif" >}}
@@ -14,4 +14,4 @@ draft: false
 🎟️ VOUCHER MAKRIFAT (GOLD) (Aset Elit)
 {{< pasukan 50 "VOUCHER MAKRIFAT" >}}
 
-{{< BANK_MAKRIFAT >}}
+{{< BANK_MAKRIFAT />}}
